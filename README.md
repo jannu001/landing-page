@@ -1,1 +1,2 @@
-Made a basic VisualStudio Landing-page 
+As a beginner to this field 
+I Made a basic VisualStudio Landing-page 
